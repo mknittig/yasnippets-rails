@@ -1,4 +1,4 @@
 #name : session[: ... ]
-#group: rails
+#group: Rails
 # --
 session[:${user}]
