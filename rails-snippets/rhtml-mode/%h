@@ -1,3 +1,4 @@
 #name : <%=h  ...  %>
+#group: rhtml
 # --
 <%=h ${@item} %>

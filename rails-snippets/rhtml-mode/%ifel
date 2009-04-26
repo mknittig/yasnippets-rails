@@ -1,4 +1,5 @@
 #name : <% if  ...  -%> $. <% else -%> <% end -%>
+#group: rhtml
 # --
 <% if $0cond} -%>
 $0

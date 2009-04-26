@@ -1,4 +1,5 @@
 #name : <% unless  ...  -%> $. <% end -%>
+#group: rhtml
 # --
 <% unless ${cond} -%>
 $0

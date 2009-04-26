@@ -1,3 +1,4 @@
 #name : <%= render(:partial => ... ) %>
+#group: rhtml
 # --
 <%= render(:partial => "${action}"$0 ) %>
