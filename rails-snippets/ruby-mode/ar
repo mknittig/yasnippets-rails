@@ -1,3 +1,4 @@
 #name : assert_raises  ...  { $. }
+#group: assert
 # --
 assert_raises ${Exception} { $. }

@@ -1,3 +1,4 @@
 #name : render :action => " ... "
+#group: Rails render
 # --
 render :action => "${action}"
